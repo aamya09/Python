@@ -39,7 +39,7 @@ def slot_bookingforwbjee():
     print("Wbjee registration no. : "+mode_regs)
     print("Wbjee application no. : "+mode_applyno)
     print("Date : 21-09-2021")
-    print("Time : Between 9am to 3pm\n")
+    print("Time : Between 9am to 3pm\n") 
     print("For futher information contact on phno.:95915-10***")
     print("Thank You Have A Nice Day!!!")
 def slot_bookingforcomedk():
